@@ -1,0 +1,8 @@
+[package]
+name = "hello-server"
+version = "0.1.0"
+authors = ["Onyeka Obi"]
+
+[dependencies]
+hyper = "0.12"
+
